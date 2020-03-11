@@ -1,3 +1,5 @@
+// hoisting, block scope, global scope
+
 let bonus = 20;
 
 function sum(first, second){
